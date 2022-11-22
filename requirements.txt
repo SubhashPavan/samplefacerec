@@ -18,7 +18,7 @@ mock==4.0.2
 numpy==1.18.2
 opencv-contrib-python==4.2.0.32
 opencv-python==4.2.0.32
-Pillow==7.0.0
+Pillow==9.3.0
 protobuf==3.11.3
 pycparser==2.20
 six==1.14.0
